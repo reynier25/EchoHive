@@ -1,3 +1,5 @@
+# [Live Site][1]
+
 ![Headimage](https://user-images.githubusercontent.com/44175105/139758208-368c21f5-9c17-4ba6-8cc4-68e00380e611.png)
 
 <h1 align="center">EchoHive</h1>
@@ -14,8 +16,6 @@
  <img src="https://img.shields.io/badge/build-passing-brightgreen"
       alt="Build Status" />
 </div>
-
-[Live Site][1]
 
 ## Table of Contents
 
